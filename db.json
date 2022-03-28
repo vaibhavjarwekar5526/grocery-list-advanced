@@ -1,0 +1,48 @@
+{
+  "groceries": [
+    {
+      "grocery": "Oil",
+      "id": 1
+    },
+    {
+      "grocery": "Sugar",
+      "id": 2
+    },
+    {
+      "grocery": "Chana Dal",
+      "id": 3
+    },
+    {
+      "grocery": "Moong Dal",
+      "id": 4
+    },
+    {
+      "grocery": "Udad Dal",
+      "id": 5
+    },
+    {
+      "grocery": "Kurkure",
+      "id": 6
+    },
+    {
+      "grocery": "Chocolate",
+      "id": 7
+    },
+    {
+      "grocery": "Cold Drink",
+      "id": 8
+    },
+    {
+      "grocery": "Ice Cream",
+      "id": 9
+    },
+    {
+      "grocery": "Santoor Soap",
+      "id": 10
+    },
+    {
+      "grocery": "Colgate",
+      "id": 11
+    }
+  ]
+}
